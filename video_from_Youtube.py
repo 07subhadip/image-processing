@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import cv2
 import pytube
 
